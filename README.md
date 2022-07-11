@@ -62,5 +62,5 @@
 </a>
 
 ### 📫 Мои контакты:
-<a href="mailto:montezarov@gmail.com"><img src="https://img.icons8.com/stickers/344/gmail-new.png" alt="e-mail" width="27" height="27" /></a>
+<a href="mailto:raskalovalexander@gmail.com"><img src="https://img.icons8.com/stickers/344/gmail-new.png" alt="e-mail" width="27" height="27" /></a>
 <a href="https://t.me/alraskalov" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png" alt="Telegram" width="27" height="27" /></a>
